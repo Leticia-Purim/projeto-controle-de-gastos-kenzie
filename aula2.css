@@ -1,10 +1,66 @@
 /* ESTRUTURA DO CSS */
 /*
-    seletor {
-        propriedade : valor da prorpriedade
+        SELETOR { (QUEM EU QUERO SELECIONAR)
+        PROPRIEDADE : VALOR DA PROPRIEDADE
     }
 */  
 
-header {
-    color:cornflowerblue
+/* 1° SELETOR POR ELEMENTO*/
+li {
+    color:cornflowerblue;
+    font-size 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
 }
+
+/* 2° SELETOR POR CLASSE*/
+.itemLista {
+    color:red
+}
+
+/* 3° SELETOR POR ID */
+#conteudoPrincipal {
+    background-color: rgb(162, 209, 81);
+}
+.linguagens{
+    width: 300px;
+    height: 200px;
+    background-color: deeppink;
+}
+h1 {
+    background-color: darkviolet;
+}
+
+a {
+    background-color: khaki;
+    display: block;
+}
+
+.exemploFlexbox {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 200px;
+    background-color: sandybrown;
+}
+
+.div1 {
+    height: 100px;
+    width: 100px;
+    background-color: rosybrown;
+    padding: 10px;
+    margin: 10px;
+    text-align: left;
+}
+
+.div2 {
+    height: 150px;
+    width: 150px;
+    background-color: aquamarine;
+}
+
+img {
+    width: 600px;
+    height: 400px;
+}
+

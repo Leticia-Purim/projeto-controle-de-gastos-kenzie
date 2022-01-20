@@ -1,0 +1,41 @@
+body {}
+
+main {}
+
+/*SEÇÃO DE INSEÇÃO DE INFORMAÇÕES */
+.secaoInsercaoInformacoes{}
+.secaoInsercaoInformacoes h1{}
+.formularioEntradaOrcamento{}
+.formularioEnrtadaOrcamento h2{}
+.formularioEntradaOrcamento input{}
+.formularioEntradaOrcamento button
+{}
+
+.formularioEntradaDespesas{}
+.formularioEntradaDespesas h2{}
+.formularioEntradaDespesas input{}
+.formularioEntradaDespesas button {}
+
+.containerDespesas{}
+
+.containerDespesas cabecalho{}
+.containerDespesas cabecalho p{}
+
+.containerDespesas lista{}
+.containerDespesas lista li{}
+.containerDespesas lista li h3{}
+.containerDespesas lista li p{}
+.containerDespesas lista li img{}
+
+/* SEÇÃO DE IMPRESSÃO DE RESULTADOS*/
+.secaoImpressaoResultados orcamento{}
+.secaoImpressaoResultados orcametno h3{}
+.secaoImpressaoResultados orcamento p{}
+
+.secaoImpressaoResultados despesas{}
+.secaoImpressaoResultados despesas h3{}
+.secaoImpressaoResultados despesas p{}
+
+.secaoImpressaoResultados saldo{}
+.secaoImpressaoResultados saldo h3{}
+.secaoImpressaoResultados saldo p{}
